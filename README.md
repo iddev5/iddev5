@@ -6,7 +6,8 @@ Hi, I am Ayush Bardhan Tripathy, aka idhank or iddev5. I am a C and C++ Programm
 </a>
 
 <a href="https://discord.gg/bNwnxwn">
-<img align="left" alt="Discord" width="25px" height="25px" src="https://raw.githubusercontent.com/iddev5/iddev5/master/discord.png" />
+<img align="left" alt="Discord" width="25px" height="25px" src="https://raw.githubusercontent.com/iddev5/iddev5/master/discord.png" />  
+</a>
 <br>
 
 - 🔭 I’m currently working on **[Deccan Engine](https://github.com/iddev5/DeccanEngine)**
