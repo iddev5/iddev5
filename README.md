@@ -9,7 +9,7 @@ Hi, I am Ayush Bardhan Tripathy, aka idhank or iddev5. I am a C and C++ Programm
 <img align="left" alt="Discord" width="25px" height="25px" src="https://raw.githubusercontent.com/iddev5/iddev5/master/discord.png" />  
 </a>
 <br>
-
+<hr>
 - 🔭 I’m currently working on **[Deccan Engine](https://github.com/iddev5/DeccanEngine)**
 - 🌱 I’m currently learning **JavaScript**
 - 👯 I’m looking to collaborate on interesting **C projects**
