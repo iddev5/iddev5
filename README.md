@@ -10,8 +10,8 @@ Hi, I am Ayush Bardhan Tripathy, aka idhank or iddev5. I am a C and C++ Programm
 </a>
 <br \>
 <hr \>
-- 🔭 I’m currently working on <b>[Deccan Engine](https://github.com/iddev5/DeccanEngine)</b><br>
-- 🌱 I’m currently learning <b>JavaScript</b><br>
-- 👯 I’m looking to collaborate on interesting <b>C projects</b><br>
-- 🤔 I’m looking for help with <b>3D rendering techniques and audio mixing</b><br>
-- 💬 Ask me about <b>C Language, Game Engine, Game Development</b><br>
+- 🔭 I’m currently working on <b><a href="https://github.com/iddev5/DeccanEngine">Deccan Engine</b><br \>
+- 🌱 I’m currently learning <b>JavaScript</b><br \>
+- 👯 I’m looking to collaborate on interesting <b>C projects</b><br \>
+- 🤔 I’m looking for help with <b>3D rendering techniques and audio mixing</b><br \>
+- 💬 Ask me about <b>C Language, Game Engine, Game Development</b><br \>
