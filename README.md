@@ -1,17 +1,12 @@
-### Hi, I am Ayush Bardhan Tripathy 👋
-Hi, I am Ayush Bardhan Tripathy, aka idhank or iddev5. I am a C and C++ Programmer
+### Hi, I am Ayush Bardhan Tripathy :wave: :pray:
+Hello, I am Ayush, also known as idhank or iddev. I am a game developer, designer and programmer. I am a Linux user and enthusiast. I also do a little bit of web development. I like Open Source softwares and I support FOSS.
 
-<a href="https://twitter.com/iddev5">
-<img align="left" alt="Twitter" width="25px" height="25px" src="https://raw.githubusercontent.com/iddev5/iddev5/master/twitter.png" />
-</a>
-
-<a href="https://discord.gg/bNwnxwn">
-<img align="left" alt="Discord" width="25px" height="25px" src="https://raw.githubusercontent.com/iddev5/iddev5/master/discord.png" />  
-</a><br \>
+:diamond_shape_with_a_dot_inside: **Programming Languages**: C, C++([Orthodox](https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b)), Lua, NodeJS, Web(HTML/CSS)  
+:radio: **Game Engines**: [Deccan Engine](https://github.com/iddev5/DeccanEngine), Love2D, GDevelop, olcPixelGameEngine  
+:loudspeaker: **Contact**: [Webpage](https://ayush.thedev.id) | [Twitter](https://twitter.com/iddev5) | [Discord](https://discord.gg/bNwnxwn) | [Itch.io](https://iddev.itch.io/)  
 
 ---
-- 🔭 I’m currently working on **[Deccan Engine](https://github.com/iddev5/DeccanEngine)**  
-- 🌱 I’m currently learning **JavaScript**  
-- 🤝 I’m looking to collaborate on interesting **C projects**  
-- 🤔 I’m looking for help with **3D rendering techniques and audio processing**  
-- 💬 Ask me about **C Language, Game Engine, Game Development**  
+
+:video_game: *Currently working on*: [Deccan Engine](https://github.com/iddev5/DeccanEngine)  
+:pen: *Currently learning*: NodeJS, Python  
+:scroll: *Interested in learning*: Graphics APIs/Rendering techniques, OpenGL, audio processing  
