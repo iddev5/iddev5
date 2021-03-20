@@ -7,6 +7,6 @@ Hello, I am Ayush, also known as idhank or iddev. I am a game developer, designe
 
 ---
 
-:video_game: **Currently working on**: [Deccan Engine](https://github.com/deccanengine/DeccanEngine), [documake](https://github.com/iddev5/documake) [mktestimg](https://github.com/iddev5/mktestimg)  
+:video_game: **Currently working on**: [Deccan Engine](https://github.com/deccanengine/DeccanEngine), [documake](https://github.com/iddev5/documake), [mktestimg](https://github.com/iddev5/mktestimg)  
 :pen: **Currently learning**: OpenGL, ImGui  
-:scroll: **Interested in learning**: Graphics APIs/Rendering techniques, Audio processing/output  
+:scroll: **Interested in learning**: Graphics APIs/Rendering techniques, Audio processing/output, Networking  
