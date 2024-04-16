@@ -1,4 +1,4 @@
-Hi, I am Ayush also known as idhank or iddev. I am a programmer, Linux user, FOSS enthusiast, Zig programmer.
+Hi, I am Ayush. I am a programmer, Linux user and tech enthusiast. I contribute to open source projects.
 
 ## 🌐 Socials:
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://iddev.itch.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-bardhan-tripathy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iddev5) 
